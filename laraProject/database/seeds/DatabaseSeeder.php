@@ -11,6 +11,7 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
+        //mettiamoci un utente a caso e tipo 5 offerte fittizie
         // $this->call(UsersTableSeeder::class);
     }
 }
